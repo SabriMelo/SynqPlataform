@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="D:\PROGRAMAÇÃO\C#\logo.png" alt="Logo" width="250"/>
+  <img src="properties\LOGO.png" alt="Logo" width="250"/>
 </p>
 
 <h1 align="center">Synq Platform</h1>
