@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="SynqPlataform
-/Properties/LOGO.png" alt="Logo" width="250"/>
+  <img src="[SynqPlataform
+/Properties/LOGO.png](https://raw.githubusercontent.com/SabriMelo/SynqPlataform/refs/heads/main/SynqPlataform/Properties/LOGO.png)" alt="Logo" width="250"/>
 </p>
 
 <h1 align="center">Synq Platform</h1>
