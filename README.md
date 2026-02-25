@@ -1,4 +1,8 @@
-# 🏛️ Synq Platform
+<p align="center">
+  <img src="D:\PROGRAMAÇÃO\C#\logo.png" alt="Logo" width="250"/>
+</p>
+
+<h1 align="center">Synq Platform</h1>
 
 O **Synq Platform** é um sistema de gestão e produtividade desenvolvido especificamente para escritórios de arquitetura. Ele centraliza o controle de clientes, projetos e equipes, e traz como grande diferencial um **Rastreador Automático de Horas (Background Tracker)** que monitora e contabiliza o tempo de trabalho da equipe nos softwares de arquitetura (CAD, SketchUp, Revit, etc.) de forma totalmente transparente e invisível.
 
