@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="SynqPlataform/Properties/LOGO.png" alt="Logo" width="250"/>
+  <img src="SynqPlataform/Properties/LOGO.png" alt="Logo" width="100"/>
 </p>
 
 <h1 align="center">Synq Platform</h1>
